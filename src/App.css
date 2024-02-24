@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.task-item
+{
+  display: flex;
+  flex-direction: row;
+  background-color: bisque;
+  
+}
+.task-item p{
+  background-color:chocolate;
+  padding: 10px;
+  margin: 10px; 
+} 
